@@ -1,0 +1,14 @@
+name: Customers
+
+on: [pull_request, issues]
+needs a some weakness nd less vulnerablea
+jobs:Associates
+  greeting: Custom Jewelry Designed with you in mind
+    runs-on: ubuntu-latest
+    steps: 1, pick out the pieces.
+    2, decide what you want; Necklace, Bracelet, ECT.
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Message that will be displayed on users'' first issue'
+        pr-message: 'Message that will be displayed on users'' first pr'
